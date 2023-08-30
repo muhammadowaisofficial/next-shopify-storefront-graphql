@@ -8,7 +8,7 @@ export function HeroSection() {
           If you want to contribute to the project.{' '}
           <a
             target="_blank"
-            href="https://github.com/maxvien/next-shopify-storefront"
+            href="https://github.com/muhammadowaisofficial/next-shopify-storefront-graphql"
             className="font-semibold text-indigo-600"
           >
             <span className="absolute inset-0" aria-hidden="true" />
@@ -30,7 +30,7 @@ export function HeroSection() {
             Browse Products
           </NextLink>
           <a
-            href="https://github.com/maxvien/next-shopify-storefront"
+            href="https://github.com/muhammadowaisofficial/next-shopify-storefront-graphql"
             className="text-sm font-semibold leading-6 text-gray-900"
             target="_blank"
           >
